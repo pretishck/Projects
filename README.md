@@ -1,2 +1,3 @@
 # Projects
-A collection of projects or analytics that I have done
+A collection of projects/analytics that I work on the side that interest me
+
